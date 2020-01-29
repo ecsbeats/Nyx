@@ -1,5 +1,9 @@
 # Object file
 *.o
 
-# Ada Library Information
-*.ali
+# Pyc files
+*.pyc
+
+# .env file
+.env
+
