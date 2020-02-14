@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Owner\\Documents\\GitHub\\LungCancerDetection\\src\\models\\nodule3-classifier.tfl"
+all_model_checkpoint_paths: "C:\\Users\\Owner\\Documents\\GitHub\\LungCancerDetection\\src\\models\\nodule3-classifier.tfl"
