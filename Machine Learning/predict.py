@@ -3,7 +3,7 @@ import keras
 from keras.models import load_model as load_model_keras
 
 # load model function
-def load_model(path='./models/model_saves/Final_Model.model'):
+def load_model(path='./models/Model_Saves/Final_Model.model'):
     model = load_model_keras(path)
     return model
 
