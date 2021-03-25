@@ -52,7 +52,7 @@ python-mimeparse==1.6.0
 python-social-auth==0.2.1
 python3-openid==3.1.0
 pytz==2019.1
-PyYAML==5.1.1
+PyYAML==5.4
 qtools==0.1.2
 redis==3.2.1
 requests==2.22.0
